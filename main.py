@@ -1,5 +1,7 @@
 print'\n\t\t\t---> Before starting, I will click your pic first.<----'
 
+#This will take a pic from your Webcam
+
 import cv2
 # Camera 0 is the integrated web cam on my netbook
 camera_port = 0
